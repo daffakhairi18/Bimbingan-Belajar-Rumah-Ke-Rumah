@@ -33,7 +33,7 @@ Dengan alasan tersebut, saya yakin membuka bisnis bimbingan belajar rumah ke rum
 4. Aktivitas Sosial: Adakan kegiatan tambahan untuk meningkatkan interaksi sosial siswa.
 
 ### Actor yang akan menggunakan program ini
-![image](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/626ce581-71bc-49e3-9695-ab777779d94f)
+
 
 Pengajar
 
